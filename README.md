@@ -8,8 +8,10 @@
 # Languages, frameworks and technologies: 
 
 <a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/ruby.svg" target="blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/ruby.svg" height=100></a>
+<a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" target="blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" height=100></a>
 <a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" target="blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height=100></a>
 <a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/rails.svg" target="blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/rails.svg" height=100></a>
+<a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" target="blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" height=100></a>
 <a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" target="blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" height=100></a>
 <a href="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" target="blank"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" height=100></a>
 
