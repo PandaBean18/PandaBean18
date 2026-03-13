@@ -1,4 +1,4 @@
-# Hey I'm Panda Bean, a 20 year old developer 
+# rndbn
 [![Panda Bean's Github stats](https://github-readme-stats.vercel.app/api?username=PandaBean18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaBean18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
