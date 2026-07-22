@@ -1,7 +1,7 @@
 # rndbn
-[![Panda Bean's Github stats](https://github-readme-stats.vercel.app/api?username=PandaBean18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Panda Bean's Github stats](https://github-stats-extended.vercel.app/api?username=PandaBean18&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaBean18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=PandaBean18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My Codewars Profile](https://www.codewars.com/users/PandaBean/badges/large)
 
