@@ -1,7 +1,9 @@
 # rndbn
-[![My dual stats](https://duo-commit.vercel.app/api/grid?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My dual stats](https://duo-commit.vercel.app/api/grid?theme=dracula)](https://github.com/PandaBean18/duo-commit)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=PandaBean18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://duo-commit.vercel.app/api/polyglot?theme=dracula)](https://github.com/PandaBean18/duo-commit)
+
+[![Open Source impact](https://duo-commit.vercel.app/api/impact?theme=dracula)](https://github.com/PandaBean18/duo-commit)
 
 ![My Codewars Profile](https://www.codewars.com/users/PandaBean/badges/large)
 
