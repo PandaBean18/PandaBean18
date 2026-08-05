@@ -1,7 +1,7 @@
 # rndbn
 <p align="center">
   <a href="https://github.com/PandaBean18/duo-commit">
-    <img style="width:500px" src="https://duo-commit.vercel.app/api/showcase" alt="Animation lol" />
+    <img style="width:75%" src="https://duo-commit.vercel.app/api/showcase" alt="Animation lol" />
   </a>
 </p>
 
