@@ -1,4 +1,10 @@
 # rndbn
+<p align="center">
+  <a href="https://github.com/PandaBean18/duo-commit">
+    <img style="width:500px" src="https://duo-commit.vercel.app/api/showcase" alt="Animation lol" />
+  </a>
+</p>
+
 [![My dual stats](https://duo-commit.vercel.app/api/grid?theme=dracula&kitty=true)](https://github.com/PandaBean18/duo-commit)
 
 [![Top Langs](https://duo-commit.vercel.app/api/polyglot?theme=dracula)](https://github.com/PandaBean18/duo-commit)
