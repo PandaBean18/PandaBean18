@@ -5,11 +5,11 @@
   </a>
 </p>
 
-[![My dual stats](https://duo-commit.vercel.app/api/grid?theme=dracula&kitty=true)](https://github.com/PandaBean18/duo-commit)
+[![My dual stats](https://duo-commit.vercel.app/api/grid?theme=cyberpunk&kitty=true)](https://github.com/PandaBean18/duo-commit)
 
-[![Top Langs](https://duo-commit.vercel.app/api/polyglot?theme=dracula&v=1)](https://github.com/PandaBean18/duo-commit)
+[![Top Langs](https://duo-commit.vercel.app/api/polyglot?theme=cyberpunk&v=1)](https://github.com/PandaBean18/duo-commit)
 
-[![Open Source impact](https://duo-commit.vercel.app/api/impact?theme=dracula)](https://github.com/PandaBean18/duo-commit)
+[![Open Source impact](https://duo-commit.vercel.app/api/impact?theme=cyberpunk)](https://github.com/PandaBean18/duo-commit)
 
 ![My Codewars Profile](https://www.codewars.com/users/PandaBean/badges/large)
 
